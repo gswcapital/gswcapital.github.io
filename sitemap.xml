@@ -3,6 +3,12 @@
   
   <url>
     <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-10-22T20:01:52+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/blog/20161022-say-hello-world/</loc>
+    <lastmod>2016-10-22T20:01:52+07:00</lastmod>
   </url>
   
 </urlset>
