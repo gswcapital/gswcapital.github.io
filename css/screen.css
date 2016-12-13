@@ -1220,9 +1220,12 @@ body:not(.post-template) .post-title {
 }
 
 .author-profile {
+    width: 24px;
+    height: 24px;
     padding: 0 15px 5rem 15px;
     border-bottom: #EBF2F6 1px solid;
     text-align: center;
+    border-radius: 100%;
 }
 
 /* Add a little circle in the middle of the border-bottom */
