@@ -1220,12 +1220,9 @@ body:not(.post-template) .post-title {
 }
 
 .author-profile {
-    width: 24px;
-    height: 24px;
     padding: 0 15px 5rem 15px;
     border-bottom: #EBF2F6 1px solid;
     text-align: center;
-    border-radius: 100%;
 }
 
 /* Add a little circle in the middle of the border-bottom */
@@ -1295,6 +1292,14 @@ body:not(.post-template) .post-title {
     color: #50585D;
     letter-spacing: 0;
     text-indent: 0;
+}
+
+.author-avartar-thumb {
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 10px;
 }
 
 .author-meta {
