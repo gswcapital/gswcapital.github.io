@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vo Vinh</title>
-    <link>http://gswcapital.github.io/index.xml</link>
+    <link>https://gswcapital.github.io/index.xml</link>
     <description>Recent content on Vo Vinh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
     <lastBuildDate>Sun, 06 Nov 2016 17:09:49 +0700</lastBuildDate>
-    <atom:link href="http://gswcapital.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gswcapital.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>http://gswcapital.github.io/blog/20161106-saying-hello-world/</link>
+      <link>https://gswcapital.github.io/blog/20161106-saying-hello-world/</link>
       <pubDate>Sun, 06 Nov 2016 17:09:49 +0700</pubDate>
       
-      <guid>http://gswcapital.github.io/blog/20161106-saying-hello-world/</guid>
+      <guid>https://gswcapital.github.io/blog/20161106-saying-hello-world/</guid>
       <description>
 
 &lt;h4 id=&#34;what-is-lorem-ipsum&#34;&gt;What is Lorem Ipsum?&lt;/h4&gt;
