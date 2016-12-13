@@ -1295,8 +1295,8 @@ body:not(.post-template) .post-title {
 }
 
 .author-avartar-thumb {
-    width: 24px;
-    height: 24px;
+    width: 40px;
+    height: 40px;
     border-radius: 100%;
     float: left;
     margin-right: 10px;
