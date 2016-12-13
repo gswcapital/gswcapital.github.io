@@ -877,7 +877,7 @@ body.nav-opened .menu-button .word {
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: #545454;
 }
 
 .page-description {
@@ -897,7 +897,7 @@ body.nav-opened .menu-button .word {
 }
 
 .no-cover .page-title {
-    color: rgba(0,0,0,0.8);
+    color: #545454;
 }
 
 .no-cover .page-description {
@@ -1464,6 +1464,12 @@ body:not(.post-template) .post-title {
     float: left;
 }
 
+/* =======
+    USER DEFINE
+   ===========*/
+article h4 a {
+    text-decoration: none;
+}
 
 /* ==========================================================================
    10. Media Queries - Smaller than 900px
@@ -2062,7 +2068,6 @@ body:not(.post-template) .post-title {
     width: 100%;
   }
 }
-
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff

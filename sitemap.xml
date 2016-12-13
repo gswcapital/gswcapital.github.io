@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>http://gswcapital.com/</loc>
+    <lastmod>2016-11-06T17:09:49+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gswcapital.com/blog/20161106-saying-hello-world/</loc>
+    <lastmod>2016-11-06T17:09:49+07:00</lastmod>
   </url>
   
 </urlset>

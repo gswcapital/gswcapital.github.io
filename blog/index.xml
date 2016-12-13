@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog-rsses on VO VINH</title>
-    <link>https://gswcapital.github.io/blog/index.xml</link>
-    <description>Recent content in Blog-rsses on VO VINH</description>
+    <title>Blog-rsses on Vo Vinh</title>
+    <link>http://gswcapital.com/blog/index.xml</link>
+    <description>Recent content in Blog-rsses on Vo Vinh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <lastBuildDate>Sat, 22 Oct 2016 20:01:52 +0700</lastBuildDate>
-    <atom:link href="https://gswcapital.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2016 17:09:49 +0700</lastBuildDate>
+    <atom:link href="http://gswcapital.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>20161022 say hello world</title>
-      <link>https://gswcapital.github.io/blog/20161022-say-hello-world/</link>
-      <pubDate>Sat, 22 Oct 2016 20:01:52 +0700</pubDate>
+      <title>Hello World</title>
+      <link>http://gswcapital.com/blog/20161106-saying-hello-world/</link>
+      <pubDate>Sun, 06 Nov 2016 17:09:49 +0700</pubDate>
       
-      <guid>https://gswcapital.github.io/blog/20161022-say-hello-world/</guid>
-      <description>&lt;p&gt;just say hello&lt;/p&gt;
+      <guid>http://gswcapital.com/blog/20161106-saying-hello-world/</guid>
+      <description>
+
+&lt;h4 id=&#34;what-is-lorem-ipsum&#34;&gt;What is Lorem Ipsum?&lt;/h4&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;h4 id=&#34;where-does-it-come-from&#34;&gt;Where does it come from?&lt;/h4&gt;
+
+&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;
+
+&lt;p&gt;The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.&lt;/p&gt;
 </description>
     </item>
     
