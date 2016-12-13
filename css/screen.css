@@ -1186,6 +1186,15 @@ body:not(.post-template) .post-title {
     color: #50585D;
 }
 
+section .social {
+    float:left;
+    width: 60%;
+}
+
+section .share {
+    float:left;
+}
+
 
 /* ==========================================================================
    6. Author profile
