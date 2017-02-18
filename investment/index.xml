@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vo Vinh</title>
-    <link>https://gswcapital.github.io/index.xml</link>
-    <description>Recent content on Vo Vinh</description>
+    <title>Investment-rsses on Vo Vinh</title>
+    <link>https://gswcapital.github.io/investment/index.xml</link>
+    <description>Recent content in Investment-rsses on Vo Vinh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
     <lastBuildDate>Sun, 06 Nov 2016 17:09:49 +0700</lastBuildDate>
-    <atom:link href="https://gswcapital.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://gswcapital.github.io/blog/20161106-saying-hello-world/</link>
-      <pubDate>Sun, 06 Nov 2016 17:09:49 +0700</pubDate>
-      
-      <guid>https://gswcapital.github.io/blog/20161106-saying-hello-world/</guid>
-      <description>&lt;p&gt;Đã khá lâu rồi không viết lách thứ gì nghiêm túc, chợt thấy cuộc sống cứ bừa bộn, cuống cuồng&amp;hellip; Nhiều điều muốn làm, nhiều điều dang dở&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Hay là mình lại viết, viết một cái gì đó, ít ra là viết, thậm chí chỉ là viết ra những con chữ?!&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="https://gswcapital.github.io/investment/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>VNINDEX: Khả năng năng đi ngang còn kéo dài</title>
