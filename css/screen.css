@@ -969,12 +969,20 @@ body:not(.post-template) .post-title {
     line-height: 1.7em;
 }
 
-.summary {
-    font-size: 0.8em;
-}
-
 .read-more {
     text-decoration: none;
+    font-size: 0.8em;
+    line-height: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #9EABB3;
+}
+
+.read-more:hover{
+    text-decoration: underline;
+}
+
+.summary {
     font-size: 0.8em;
 }
 
@@ -1004,9 +1012,10 @@ body:not(.post-template) .post-title {
     text-decoration: underline;
 }
 
-.post-tag, .post-tag a {
+a.post-tag {
     color: #9EABB3;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .post-tag a:hover {
