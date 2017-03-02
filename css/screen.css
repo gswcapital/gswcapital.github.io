@@ -218,11 +218,7 @@ h4, h5, h6 {
     color: #2E2E2E;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
-<<<<<<< HEAD
     font-family: "Sansita", sans-serif;
-=======
-    font-family: "Open Sans", sans-serif;
->>>>>>> 827b2a37c830016491d82d247dc4371d1da6828c
     text-rendering: geometricPrecision;
 }
 

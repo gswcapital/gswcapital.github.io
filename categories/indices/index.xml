@@ -52,11 +52,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-<<<<<<< HEAD
 &lt;p&gt;For the sample details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;</description>
-=======
-&lt;p&gt;For the details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;</description>
->>>>>>> 827b2a37c830016491d82d247dc4371d1da6828c
     </item>
     
     <item>
@@ -392,7 +388,6 @@
 &lt;/ol&gt;</description>
     </item>
     
-<<<<<<< HEAD
     <item>
       <title>VN30 constituents: First Half-Year 2017 </title>
       <link>https://gswcapital.github.io/vn30/vn30-index-constituents-first-half-year-2017/</link>
@@ -403,7 +398,5 @@
 </description>
     </item>
     
-=======
->>>>>>> 827b2a37c830016491d82d247dc4371d1da6828c
   </channel>
 </rss>
