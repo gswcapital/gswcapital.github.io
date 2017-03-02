@@ -85,7 +85,11 @@ FI could open trading account at any brokerage firms given the certification of 
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;For the sample details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;</description>
+=======
+&lt;p&gt;For the details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;</description>
+>>>>>>> 827b2a37c830016491d82d247dc4371d1da6828c
     </item>
     
     <item>
@@ -422,6 +426,7 @@ FI could open trading account at any brokerage firms given the certification of 
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>VN30 constituents: First Half-Year 2017 </title>
       <link>https://gswcapital.github.io/vn30/vn30-index-constituents-first-half-year-2017/</link>
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
@@ -432,6 +437,8 @@ FI could open trading account at any brokerage firms given the certification of 
     </item>
     
     <item>
+=======
+>>>>>>> 827b2a37c830016491d82d247dc4371d1da6828c
       <title>Vietnam Stock Trading Rules</title>
       <link>https://gswcapital.github.io/post/vietnam-stock-trading-rules/</link>
       <pubDate>Sun, 04 Dec 2016 15:09:49 +0700</pubDate>
