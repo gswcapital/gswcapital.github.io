@@ -168,6 +168,76 @@
       $(document).ready(function() {
     
       
+
+      var options = {
+        chart: {
+          
+          renderTo: 'avin-value',
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+        },
+        title: {
+          text: 'AVIN\u2122 Universe Structure (Count)'
+        },
+
+        tooltip: {
+                pointFormat:'{point.y:.0f}</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                showInLegend: true       
+            }
+        },
+
+        series: []
+      };
+      
+  
+      $.get("csv/20161007-count.csv", function(data) {
+        
+        var lines = data.split('\n');
+        var s = { 
+              type : "pie",
+              colorByPoint: true,
+              data: []
+            };
+
+        $.each(lines, function(lineNo, line) {
+          var items = line.split(',');
+          
+         
+      
+          
+          if (lineNo > 0) {
+            name = "";
+            y = 0;
+            
+            $.each(items, function(itemNo, item) { 
+              if (itemNo == 0) {
+                name = item;
+              } else {
+                y = parseFloat(item);
+              }
+            });
+            s.data.push({name, y}); 
+            
+          }
+        });
+        options.series.push(s);
+
+        var chart = new Highcharts.Chart(options);
+      });
+      
+      
+    });
+    </script>
+
+
+      <div id="avin-size" style="float:left; min-width: 350px; max-width:50%; height: 400px; margin: auto 0 0 0"></div>
       <script type="text/javascript">
 
       $(document).ready(function() {
