@@ -163,25 +163,26 @@
     <section class="post-content">
       <script type="text/javascript" src="http://www.avincapital.com/js/jquery.js"></script>
       <div id="avin-container" style="width: 100%; float: left; margin:3em auto">
-      <script type="text/javascript">
+      
     
-    
-   
+
+
+<script type="text/javascript">
     $(document).ready(function() {
-        
         var options = {
             chart: { 
                 renderTo: 'avin-count',
                 plotBackgroundColor: null,
                 plotBorderWidth: null,
                 plotShadow: false,
-                type: 'pie'
+                type: 'pie',
+                colorByPoint: true,
             },
             title: {
               text: 'AVIN\u2122 Universe Structure (Count)'
             },
             tooltip: {
-                    pointFormat:'{point.y:.0f}</b>'
+                    pointFormat:'<b>{point.y:.0f}</b> tickers'
             },
             plotOptions: {
                 pie: {
@@ -194,15 +195,15 @@
         };
 
         var s = { 
-              type : "pie",
-              colorByPoint: true,
-              data: []
+            data: []
         };
 
         
         ""
 
         
+        
+            
             
             
             
@@ -217,12 +218,14 @@
             
             
             
+            
             ""
         
             
                 var name = "Mid-cap";
                 var y = parseFloat(" 14"); 
                 s.data.push({name, y});
+            
             
             
             
@@ -237,12 +240,14 @@
             
             
             
+            
             ""
         
             
                 var name = "Micro-cap";
                 var y = parseFloat(" 93"); 
                 s.data.push({name, y});
+            
             
             
             
@@ -257,6 +262,7 @@
             
             
             
+            
             ""
         
 
@@ -266,153 +272,277 @@
     });
 </script>
 <div id="avin-count" style="float:left; min-width: 350px; max-width:50%; height: 400px; margin: auto 0"></div>
-      <script type="text/javascript">
-
-      $(document).ready(function() {
+      
     
-      
 
-      var options = {
-        chart: {
-          
-          renderTo: 'avin-size',
-          plotBackgroundColor: null,
-          plotBorderWidth: null,
-          plotShadow: false,
-          type: 'pie'
-        },
-        title: {
-          text: 'AVIN\u2122 Universe Structure (VND: bn)'
-        },
 
-        tooltip: {
-                pointFormat:'{point.percentage:,.1f} %</b>'
-        },
-        plotOptions: {
-            pie: {
-                allowPointSelect: true,
-                cursor: 'pointer',
-                showInLegend: true       
-            }
-        },
+<script type="text/javascript">
+    $(document).ready(function() {
+        var options = {
+            chart: { 
+                renderTo: 'avin-size',
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie',
+                colorByPoint: true,
+            },
+            title: {
+              text: 'AVIN\u2122 Universe Structure (Size)'
+            },
+            tooltip: {
+                    pointFormat:'{point.percentage:.1f}</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    showInLegend: true       
+                }
+            },
+            series: []
+        };
 
-        series: []
-      };
-      
-  
-      $.get("http://www.avincapital.com/csv/20161007-size.csv", function(data) {
-        
-        var lines = data.split('\n');
         var s = { 
-              type : "pie",
-              colorByPoint: true,
-              data: []
-            };
+            data: []
+        };
 
-        $.each(lines, function(lineNo, line) {
-          var items = line.split(',');
-          
-         
-      
-          
-          if (lineNo > 0) {
-            name = "";
-            y = 0;
+        
+        ""
+        
+        
             
-            $.each(items, function(itemNo, item) { 
-              if (itemNo == 0) {
-                name = item;
-              } else {
-                y = parseFloat(item);
-              }
-            });
-            s.data.push({name, y}); 
             
-          }
-        });
+            
+            
+            
+            ""
+        
+            
+                var name = "Large-cap";
+                var y = parseFloat(" 751498745397200"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Mid-cap";
+                var y = parseFloat(" 245302134655489"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Small-cap";
+                var y = parseFloat(" 183993032767643"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Micro-cap";
+                var y = parseFloat(" 91830821442041"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Nano-cap";
+                var y = parseFloat(" 16990673957532"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+
         options.series.push(s);
 
         var chart = new Highcharts.Chart(options);
-      });
-      
-      
     });
-    </script>
-
-
-      <div id="avin-size" style="float:left; min-width: 350px; max-width:50%; height: 400px; margin: auto 0"></div>
-      <script type="text/javascript">
-
-      $(document).ready(function() {
+</script>
+<div id="avin-size" style="float:left; min-width: 350px; max-width:50%; height: 400px; margin: auto 0"></div>
+      
     
-      
 
-      var options = {
-        chart: {
-          
-          renderTo: 'avin-sector',
-          plotBackgroundColor: null,
-          plotBorderWidth: null,
-          plotShadow: false,
-          type: 'pie'
-        },
-        title: {
-          text: 'AVIN\u2122 Universe Structure (Sectors)'
-        },
 
-        tooltip: {
-                pointFormat:'{point.percentage:,.1f}</b>'
-        },
-        plotOptions: {
-            pie: {
-                allowPointSelect: true,
-                cursor: 'pointer',
-                showInLegend: true       
-            }
-        },
+<script type="text/javascript">
+    $(document).ready(function() {
+        var options = {
+            chart: { 
+                renderTo: 'avin-sector',
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie',
+                colorByPoint: true,
+            },
+            title: {
+              text: 'AVIN\u2122 Universe Structure (Sector)'
+            },
+            tooltip: {
+                    pointFormat:'{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    showInLegend: true       
+                }
+            },
+            series: []
+        };
 
-        series: []
-      };
-      
-  
-      $.get("http://www.avincapital.com/csv/20161007-sector.csv", function(data) {
-        
-        var lines = data.split('\n');
         var s = { 
-              type : "pie",
-              colorByPoint: true,
-              data: []
-            };
+            data: []
+        };
 
-        $.each(lines, function(lineNo, line) {
-          var items = line.split(',');
-          
-         
-      
-          
-          if (lineNo > 0) {
-            name = "";
-            y = 0;
+        
+        ""
+
+        
+        
             
-            $.each(items, function(itemNo, item) { 
-              if (itemNo == 0) {
-                name = item;
-              } else {
-                y = parseFloat(item);
-              }
-            });
-            s.data.push({name, y}); 
             
-          }
-        });
+            
+            
+            
+            ""
+        
+            
+                var name = "Consumer Discretionary";
+                var y = parseFloat(" 48200"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Consumer Staples";
+                var y = parseFloat(" 278500"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Energy";
+                var y = parseFloat("16100"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Financials";
+                var y = parseFloat("387200"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Healthcare";
+                var y = parseFloat("20200"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Industrials";
+                var y = parseFloat("113600"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Information Technology";
+                var y = parseFloat("23500"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Materials";
+                var y = parseFloat("83600"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Real Estate";
+                var y = parseFloat("157800"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Utilities";
+                var y = parseFloat("160800"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            
+            ""
+        
+
         options.series.push(s);
 
         var chart = new Highcharts.Chart(options);
-      });
-      
-      
     });
-    </script>
+</script>
 
 
       <div id="avin-sector" style="float:left; min-width: 90%; max-width:100%; height: 400px; margin: 5em auto"></div>
@@ -426,25 +556,20 @@
 <table>
     
         
-            <tbody>
+            <thead>
                 <tr>
-                  <td>#</td>
-                  <td> 
-                  	<div class="tooltip">Ticker
-                  		<span class="tooltiptext">Sector: Sectors | Market Capital: <span class="numbers"> MarketCap </span> </span>
-                		</div>
-                	  </td>
-                  <td>CapitalSize</td>
-                  <td class="numbers" style="text-align: right">Open</td>
-                  <td>High</td>
-                  <td>Low</td>
-                  <td>Close</td>
-                  
-                  <td>EPS</td>
-                  <td>PE</td>
-                  <td style="text-align: right">Weighting%</td>
+                    <th>No.</th>
+                    <th>Ticker</th>
+                    <th>Size</th>
+                    <th>Open</th>
+                    <th>High</th>
+                    <th>Low</th>
+                    <th>Close</th>
+                    <th>EPS</th>
+                    <th>P/E</th>
+                    <th style="text-align: right">Weighting</th>
                 </tr>
-            </tbody>
+            </thead>
         
 
         
