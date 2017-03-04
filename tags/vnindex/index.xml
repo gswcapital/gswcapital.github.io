@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AVinCapital</title>
-    <link>http://www.avincapital.com/tags/vnindex/index.xml</link>
+    <link>http://localhost:1313/tags/vnindex/index.xml</link>
     <description>Recent content on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <atom:link href="http://www.avincapital.com/tags/vnindex/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vnindex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Vietnam Daily Highlights 17/02/2017</title>
-      <link>http://www.avincapital.com/post/20170217-vietnam-stock-market-daily-highlights/</link>
+      <link>http://localhost:1313/post/20170217-vietnam-stock-market-daily-highlights/</link>
       <pubDate>Fri, 17 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/20170217-vietnam-stock-market-daily-highlights/</guid>
+      <guid>http://localhost:1313/post/20170217-vietnam-stock-market-daily-highlights/</guid>
       <description>&lt;p&gt;The market saw some nice gains today to go along with a few losses for selected bluechips. Market breadth was quite narrow and we saw 28 stocks hit the ceiling while 20 stocks fell to the floor. Foreigners were somewhat less active today with much more selling than buying.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>The Vietnam Weekly Forecast 20/2 - 24/2</title>
-      <link>http://www.avincapital.com/post/20170217-vietnam-stock-market-weekly-forecast/</link>
+      <link>http://localhost:1313/post/20170217-vietnam-stock-market-weekly-forecast/</link>
       <pubDate>Fri, 17 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/20170217-vietnam-stock-market-weekly-forecast/</guid>
+      <guid>http://localhost:1313/post/20170217-vietnam-stock-market-weekly-forecast/</guid>
       <description>&lt;p&gt;The market saw some nice gains today to go along with a few losses for selected bluechips. Market breadth was quite narrow and we saw 28 stocks hit the ceiling while 20 stocks fell to the floor. Foreigners were somewhat less active today with much more selling than buying.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>VNINDEX: Khả năng năng đi ngang còn kéo dài</title>
-      <link>http://www.avincapital.com/post/20170209-sideways-nhieu-kha-nang-con-keo-dai/</link>
+      <link>http://localhost:1313/post/20170209-sideways-nhieu-kha-nang-con-keo-dai/</link>
       <pubDate>Thu, 09 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/20170209-sideways-nhieu-kha-nang-con-keo-dai/</guid>
+      <guid>http://localhost:1313/post/20170209-sideways-nhieu-kha-nang-con-keo-dai/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;//c1.staticflickr.com/1/622/32437217920_c15403e72d_z.jpg&#34; alt=&#34;photo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Quan sát montly chart của VNINDEX, có thể thấy rằng VNINDEX đã hoàn toàn bứt phá được vùng đỉnh 630 - 650 được thiết lập kể từ 2009; và thậm chí đã vượt mốc 700. Tuy vậy cũng lưu ý rằng mức điểm này không có quá nhiều ý nghĩa về mặt kỹ thuật mà chỉ có đôi chút ý nghĩa về mặt tâm lý con số đơn thuần.&lt;/p&gt;
@@ -52,10 +52,10 @@
     
     <item>
       <title>The VN30-Index constituents</title>
-      <link>http://www.avincapital.com/post/the-vn30-index-constituents/</link>
+      <link>http://localhost:1313/post/the-vn30-index-constituents/</link>
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/the-vn30-index-constituents/</guid>
+      <guid>http://localhost:1313/post/the-vn30-index-constituents/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;General
 
@@ -98,10 +98,10 @@
     
     <item>
       <title>The list of Companies listed on HOSE</title>
-      <link>http://www.avincapital.com/post/the-list-of-companies-listed-on-hose/</link>
+      <link>http://localhost:1313/post/the-list-of-companies-listed-on-hose/</link>
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/the-list-of-companies-listed-on-hose/</guid>
+      <guid>http://localhost:1313/post/the-list-of-companies-listed-on-hose/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;REE |   18/07/2000&lt;/li&gt;
 &lt;li&gt;SAM |   18/07/2000&lt;/li&gt;
@@ -431,10 +431,10 @@
     
     <item>
       <title>VN30 constituents: First Half-Year 2017 </title>
-      <link>http://www.avincapital.com/vn30/vn30-index-constituents-first-half-year-2017/</link>
+      <link>http://localhost:1313/vn30/vn30-index-constituents-first-half-year-2017/</link>
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/vn30/vn30-index-constituents-first-half-year-2017/</guid>
+      <guid>http://localhost:1313/vn30/vn30-index-constituents-first-half-year-2017/</guid>
       <description>&lt;p&gt;For the details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

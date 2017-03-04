@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AVinCapital</title>
-    <link>http://www.avincapital.com/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <description>Recent content on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
     <lastBuildDate>Fri, 17 Feb 2017 17:09:49 +0700</lastBuildDate>
-    <atom:link href="http://www.avincapital.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The AVIN™ Review 03/10 - 07/10/2016</title>
-      <link>http://www.avincapital.com/avin/20160710-vietnam-stock-market-weekly-forecast/</link>
+      <link>http://localhost:1313/avin/20160710-vietnam-stock-market-weekly-forecast/</link>
       <pubDate>Fri, 17 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/avin/20160710-vietnam-stock-market-weekly-forecast/</guid>
+      <guid>http://localhost:1313/avin/20160710-vietnam-stock-market-weekly-forecast/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The AVIN&amp;trade; Investable Universe&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>The Vietnam Daily Highlights 17/02/2017</title>
-      <link>http://www.avincapital.com/post/20170217-vietnam-stock-market-daily-highlights/</link>
+      <link>http://localhost:1313/post/20170217-vietnam-stock-market-daily-highlights/</link>
       <pubDate>Fri, 17 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/20170217-vietnam-stock-market-daily-highlights/</guid>
+      <guid>http://localhost:1313/post/20170217-vietnam-stock-market-daily-highlights/</guid>
       <description>&lt;p&gt;The market saw some nice gains today to go along with a few losses for selected bluechips. Market breadth was quite narrow and we saw 28 stocks hit the ceiling while 20 stocks fell to the floor. Foreigners were somewhat less active today with much more selling than buying.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>The Vietnam Weekly Forecast 20/2 - 24/2</title>
-      <link>http://www.avincapital.com/post/20170217-vietnam-stock-market-weekly-forecast/</link>
+      <link>http://localhost:1313/post/20170217-vietnam-stock-market-weekly-forecast/</link>
       <pubDate>Fri, 17 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/20170217-vietnam-stock-market-weekly-forecast/</guid>
+      <guid>http://localhost:1313/post/20170217-vietnam-stock-market-weekly-forecast/</guid>
       <description>&lt;p&gt;The market saw some nice gains today to go along with a few losses for selected bluechips. Market breadth was quite narrow and we saw 28 stocks hit the ceiling while 20 stocks fell to the floor. Foreigners were somewhat less active today with much more selling than buying.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -76,10 +76,10 @@
     
     <item>
       <title>VNINDEX: Khả năng năng đi ngang còn kéo dài</title>
-      <link>http://www.avincapital.com/post/20170209-sideways-nhieu-kha-nang-con-keo-dai/</link>
+      <link>http://localhost:1313/post/20170209-sideways-nhieu-kha-nang-con-keo-dai/</link>
       <pubDate>Thu, 09 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/20170209-sideways-nhieu-kha-nang-con-keo-dai/</guid>
+      <guid>http://localhost:1313/post/20170209-sideways-nhieu-kha-nang-con-keo-dai/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;//c1.staticflickr.com/1/622/32437217920_c15403e72d_z.jpg&#34; alt=&#34;photo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Quan sát montly chart của VNINDEX, có thể thấy rằng VNINDEX đã hoàn toàn bứt phá được vùng đỉnh 630 - 650 được thiết lập kể từ 2009; và thậm chí đã vượt mốc 700. Tuy vậy cũng lưu ý rằng mức điểm này không có quá nhiều ý nghĩa về mặt kỹ thuật mà chỉ có đôi chút ý nghĩa về mặt tâm lý con số đơn thuần.&lt;/p&gt;
@@ -91,10 +91,10 @@
     
     <item>
       <title>How to open a brokerage account</title>
-      <link>http://www.avincapital.com/post/how-to-open-a-brokerage-account/</link>
+      <link>http://localhost:1313/post/how-to-open-a-brokerage-account/</link>
       <pubDate>Mon, 19 Dec 2016 10:48:29 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/how-to-open-a-brokerage-account/</guid>
+      <guid>http://localhost:1313/post/how-to-open-a-brokerage-account/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Registering a &lt;strong&gt;Securities Trading Code (STC)&lt;/strong&gt;:
 Foreign investor (FI) can directly contact to the Vietnam &lt;strong&gt;Securities Depository (VSD)&lt;/strong&gt; to get a trading code. However, it is recommended that FI should contact via a member of VSD (brokerage firms, banks) for more convenience.
@@ -119,15 +119,15 @@ FI can contact to the bank which provides the services. It is also high recommen
 FI could open trading account at any brokerage firms given the certification of STC. Normally, the brokerage firms where FI(s) open trading account help them to register an STC as well as IICA.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Please be aware of the law of investment as well as related documents which you could find details in the &lt;a href=&#34;http://www.avincapital.com/post/important-legal-documents/&#34;&gt;Important Legal Documents&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Please be aware of the law of investment as well as related documents which you could find details in the &lt;a href=&#34;http://localhost:1313/post/important-legal-documents/&#34;&gt;Important Legal Documents&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The VN30-Index constituents</title>
-      <link>http://www.avincapital.com/post/the-vn30-index-constituents/</link>
+      <link>http://localhost:1313/post/the-vn30-index-constituents/</link>
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/the-vn30-index-constituents/</guid>
+      <guid>http://localhost:1313/post/the-vn30-index-constituents/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;General
 
@@ -170,10 +170,10 @@ FI could open trading account at any brokerage firms given the certification of 
     
     <item>
       <title>The list of Companies listed on HOSE</title>
-      <link>http://www.avincapital.com/post/the-list-of-companies-listed-on-hose/</link>
+      <link>http://localhost:1313/post/the-list-of-companies-listed-on-hose/</link>
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/the-list-of-companies-listed-on-hose/</guid>
+      <guid>http://localhost:1313/post/the-list-of-companies-listed-on-hose/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;REE |   18/07/2000&lt;/li&gt;
 &lt;li&gt;SAM |   18/07/2000&lt;/li&gt;
@@ -503,20 +503,20 @@ FI could open trading account at any brokerage firms given the certification of 
     
     <item>
       <title>VN30 constituents: First Half-Year 2017 </title>
-      <link>http://www.avincapital.com/vn30/vn30-index-constituents-first-half-year-2017/</link>
+      <link>http://localhost:1313/vn30/vn30-index-constituents-first-half-year-2017/</link>
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/vn30/vn30-index-constituents-first-half-year-2017/</guid>
+      <guid>http://localhost:1313/vn30/vn30-index-constituents-first-half-year-2017/</guid>
       <description>&lt;p&gt;For the details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vietnam Stock Trading Rules</title>
-      <link>http://www.avincapital.com/post/vietnam-stock-trading-rules/</link>
+      <link>http://localhost:1313/post/vietnam-stock-trading-rules/</link>
       <pubDate>Sun, 04 Dec 2016 15:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/vietnam-stock-trading-rules/</guid>
+      <guid>http://localhost:1313/post/vietnam-stock-trading-rules/</guid>
       <description>&lt;p&gt;There are 2 exchanges in Vietnam, operating on the order-driven basis.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -600,10 +600,10 @@ FI could open trading account at any brokerage firms given the certification of 
     
     <item>
       <title>What Drives the Stock Market</title>
-      <link>http://www.avincapital.com/post/what-drives-the-stock-market/</link>
+      <link>http://localhost:1313/post/what-drives-the-stock-market/</link>
       <pubDate>Sat, 03 Dec 2016 15:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/what-drives-the-stock-market/</guid>
+      <guid>http://localhost:1313/post/what-drives-the-stock-market/</guid>
       <description>&lt;p&gt;The following are some &amp;ldquo;hot topics&amp;rdquo;, personally I do think they have large effects on the VN Stock Markets.&lt;/p&gt;
 
 &lt;p&gt;– &lt;strong&gt;Brexit&lt;/strong&gt;.&lt;/p&gt;
@@ -637,10 +637,10 @@ FI could open trading account at any brokerage firms given the certification of 
     
     <item>
       <title>Important Legal Dococuments</title>
-      <link>http://www.avincapital.com/post/important-legal-documents/</link>
+      <link>http://localhost:1313/post/important-legal-documents/</link>
       <pubDate>Fri, 02 Dec 2016 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/important-legal-documents/</guid>
+      <guid>http://localhost:1313/post/important-legal-documents/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Decree 118/2015/ND-CP&lt;/strong&gt; guiding the Law on Investment: Foreign Ownership Limitation (FOL) listed companies are considered as local ones for stock market trading purposes.&lt;/p&gt;&lt;/li&gt;
 
@@ -660,10 +660,10 @@ FI could open trading account at any brokerage firms given the certification of 
     
     <item>
       <title>Hello World</title>
-      <link>http://www.avincapital.com/post/20161202-saying-hello-world/</link>
+      <link>http://localhost:1313/post/20161202-saying-hello-world/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/20161202-saying-hello-world/</guid>
+      <guid>http://localhost:1313/post/20161202-saying-hello-world/</guid>
       <description>&lt;p&gt;Đã khá lâu rồi không viết lách thứ gì nghiêm túc, chợt thấy cuộc sống cứ bừa bộn, cuống cuồng&amp;hellip; Nhiều điều muốn làm, nhiều điều dang dở&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Hay là mình lại viết, viết một cái gì đó, ít ra là viết, thậm chí chỉ là viết ra những con chữ?!&lt;/p&gt;
