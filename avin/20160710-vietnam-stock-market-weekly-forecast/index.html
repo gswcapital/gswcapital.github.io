@@ -77,37 +77,37 @@
         
             
             <li class="nav-opened" role="presentation">
-            	<a href="../../">Home ‡</a>
+            	<a href="/">Home ‡</a>
             </li>
         
             
             <li class="nav-opened" role="presentation">
-            	<a href="../../avin">AVIN ™</a>
+            	<a href="/avin">AVIN ™</a>
             </li>
         
             
             <li class="nav-opened" role="presentation">
-            	<a href="../../categories/investment">Investment</a>
+            	<a href="/categories/investment">Investment</a>
             </li>
         
             
             <li class="nav-opened" role="presentation">
-            	<a href="../../categories/commentary">Commentary</a>
+            	<a href="/categories/commentary">Commentary</a>
             </li>
         
             
             <li class="nav-opened" role="presentation">
-            	<a href="../../categories/guidance">Invest in Vietnam</a>
+            	<a href="/categories/guidance">Invest in Vietnam</a>
             </li>
         
             
             <li class="nav-opened" role="presentation">
-            	<a href="../../categories/blog">Blogs</a>
+            	<a href="/categories/blog">Blogs</a>
             </li>
         
             
             <li class="nav-opened" role="presentation">
-            	<a href="../../about">About me</a>
+            	<a href="/about">About me</a>
             </li>
         
     </ul>
@@ -164,81 +164,108 @@
       <script type="text/javascript" src="http://www.avincapital.com/js/jquery.js"></script>
       <div id="avin-container" style="width: 100%; float: left; margin:3em auto">
       <script type="text/javascript">
-
-
-      $(document).ready(function() {
     
-      
-
-      var options = {
-        chart: {
-          
-          renderTo: 'avin-value',
-          plotBackgroundColor: null,
-          plotBorderWidth: null,
-          plotShadow: false,
-          type: 'pie'
-        },
-        title: {
-          text: 'AVIN\u2122 Universe Structure (Count)'
-        },
-
-        tooltip: {
-                pointFormat:'{point.y:.0f}</b>'
-        },
-        plotOptions: {
-            pie: {
-                allowPointSelect: true,
-                cursor: 'pointer',
-                showInLegend: true       
-            }
-        },
-
-        series: []
-      };
-      
-  
-      $.get("../../csv/20161007-count.csv", function(data) {
+    
+   
+    $(document).ready(function() {
         
-        var lines = data.split('\n');
+        var options = {
+            chart: { 
+                renderTo: 'avin-count',
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+              text: 'AVIN\u2122 Universe Structure (Count)'
+            },
+            tooltip: {
+                    pointFormat:'{point.y:.0f}</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    showInLegend: true       
+                }
+            },
+            series: []
+        };
+
         var s = { 
               type : "pie",
               colorByPoint: true,
               data: []
-            };
+        };
 
-        $.each(lines, function(lineNo, line) {
-          var items = line.split(',');
-          
-         
-      
-          
-          if (lineNo > 0) {
-            name = "";
-            y = 0;
+        
+        ""
+
+        
             
-            $.each(items, function(itemNo, item) { 
-              if (itemNo == 0) {
-                name = item;
-              } else {
-                y = parseFloat(item);
-              }
-            });
-            s.data.push({name, y}); 
             
-          }
-        });
+            
+            
+            ""
+        
+            
+                var name = "Large-cap";
+                var y = parseFloat(" 9"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Mid-cap";
+                var y = parseFloat(" 14"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Small-cap";
+                var y = parseFloat(" 45"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Micro-cap";
+                var y = parseFloat(" 93"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            ""
+        
+            
+                var name = "Nano-cap";
+                var y = parseFloat(" 79"); 
+                s.data.push({name, y});
+            
+            
+            
+            
+            ""
+        
+
         options.series.push(s);
 
         var chart = new Highcharts.Chart(options);
-      });
-      
-      
     });
-    </script>
-
-
-      <div id="avin-size" style="float:left; min-width: 350px; max-width:50%; height: 400px; margin: auto 0 0 0"></div>
+</script>
+<div id="avin-count" style="float:left; min-width: 350px; max-width:50%; height: 400px; margin: auto 0"></div>
       <script type="text/javascript">
 
       $(document).ready(function() {
@@ -313,7 +340,7 @@
     </script>
 
 
-      <div id="avin-value" style="float:left; min-width: 350px; max-width:50%; height: 400px; margin: auto 0"></div>
+      <div id="avin-size" style="float:left; min-width: 350px; max-width:50%; height: 400px; margin: auto 0"></div>
       <script type="text/javascript">
 
       $(document).ready(function() {
@@ -399,20 +426,25 @@
 <table>
     
         
-            <thead>
+            <tbody>
                 <tr>
-                    <th>No.</th>
-                    <th>Ticker</th>
-                    <th>Size</th>
-                    <th>Open</th>
-                    <th>High</th>
-                    <th>Low</th>
-                    <th>Close</th>
-                    <th>EPS</th>
-                    <th>P/E</th>
-                    <th style="text-align: right">Weighting</th>
+                  <td>#</td>
+                  <td> 
+                  	<div class="tooltip">Ticker
+                  		<span class="tooltiptext">Sector: Sectors | Market Capital: <span class="numbers"> MarketCap </span> </span>
+                		</div>
+                	  </td>
+                  <td>CapitalSize</td>
+                  <td class="numbers" style="text-align: right">Open</td>
+                  <td>High</td>
+                  <td>Low</td>
+                  <td>Close</td>
+                  
+                  <td>EPS</td>
+                  <td>PE</td>
+                  <td style="text-align: right">Weighting%</td>
                 </tr>
-            </thead>
+            </tbody>
         
 
         
