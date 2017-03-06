@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AVinCapital</title>
-    <link>http://localhost:1313/categories/blog/index.xml</link>
+    <link>http://www.avincapital.com/categories/blog/index.xml</link>
     <description>Recent content on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.avincapital.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/post/20161202-saying-hello-world/</link>
+      <link>http://www.avincapital.com/post/20161202-saying-hello-world/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:49 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/20161202-saying-hello-world/</guid>
+      <guid>http://www.avincapital.com/post/20161202-saying-hello-world/</guid>
       <description>&lt;p&gt;Đã khá lâu rồi không viết lách thứ gì nghiêm túc, chợt thấy cuộc sống cứ bừa bộn, cuống cuồng&amp;hellip; Nhiều điều muốn làm, nhiều điều dang dở&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Hay là mình lại viết, viết một cái gì đó, ít ra là viết, thậm chí chỉ là viết ra những con chữ?!&lt;/p&gt;

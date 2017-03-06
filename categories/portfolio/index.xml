@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AVinCapital</title>
-    <link>http://localhost:1313/categories/portfolio/index.xml</link>
+    <link>http://www.avincapital.com/categories/portfolio/index.xml</link>
     <description>Recent content on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <atom:link href="http://localhost:1313/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.avincapital.com/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The AVIN™ Review 27/02 - 03/03/2017</title>
-      <link>http://localhost:1313/avin/20170303-avin-portfolio-review/</link>
+      <link>http://www.avincapital.com/avin/20170303-avin-portfolio-review/</link>
       <pubDate>Sat, 04 Mar 2017 18:49:56 +0700</pubDate>
       
-      <guid>http://localhost:1313/avin/20170303-avin-portfolio-review/</guid>
+      <guid>http://www.avincapital.com/avin/20170303-avin-portfolio-review/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The AVIN&amp;trade; Investable Universe&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>The AVIN™ Review 03/10 - 07/10/2016</title>
-      <link>http://localhost:1313/avin/20160710-vietnam-stock-market-weekly-forecast/</link>
+      <link>http://www.avincapital.com/avin/20160710-vietnam-stock-market-weekly-forecast/</link>
       <pubDate>Fri, 17 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://localhost:1313/avin/20160710-vietnam-stock-market-weekly-forecast/</guid>
+      <guid>http://www.avincapital.com/avin/20160710-vietnam-stock-market-weekly-forecast/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The AVIN&amp;trade; Investable Universe&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -87,10 +87,10 @@
     
     <item>
       <title>The AVIN™ Review 10/10 - 14/10/2016</title>
-      <link>http://localhost:1313/avin/20161014-vietnam-stock-market-weekly-forecast/</link>
+      <link>http://www.avincapital.com/avin/20161014-vietnam-stock-market-weekly-forecast/</link>
       <pubDate>Fri, 17 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://localhost:1313/avin/20161014-vietnam-stock-market-weekly-forecast/</guid>
+      <guid>http://www.avincapital.com/avin/20161014-vietnam-stock-market-weekly-forecast/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The AVIN&amp;trade; Investable Universe&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
