@@ -3,11 +3,21 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <lastmod>2017-03-04T18:49:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/avin/20170303-avin-portfolio-review/</loc>
+    <lastmod>2017-03-04T18:49:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/avin/20160710-vietnam-stock-market-weekly-forecast/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/avin/20161014-vietnam-stock-market-weekly-forecast/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
   </url>
   
