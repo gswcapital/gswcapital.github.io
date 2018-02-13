@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AVinCapital</title>
-    <link>http://www.avincapital.com/tags/misc/index.xml</link>
-    <description>Recent content on AVinCapital</description>
+    <title>Misc on AVinCapital</title>
+    <link>http://www.avincapital.com/tags/misc/</link>
+    <description>Recent content in Misc on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <atom:link href="http://www.avincapital.com/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:49 +0700</lastBuildDate>
+    
+	<atom:link href="http://www.avincapital.com/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Hello World</title>
@@ -15,7 +17,9 @@
       <pubDate>Thu, 01 Dec 2016 00:00:49 +0700</pubDate>
       
       <guid>http://www.avincapital.com/post/20161202-saying-hello-world/</guid>
-      <description>&lt;p&gt;Đã khá lâu rồi không viết lách thứ gì nghiêm túc, chợt thấy cuộc sống cứ bừa bộn, cuống cuồng&amp;hellip; Nhiều điều muốn làm, nhiều điều dang dở&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;[Updated] 13/12/2018: Lại là một vòng loop mới [Updated]&lt;/p&gt;
+
+&lt;p&gt;Đã khá lâu rồi không viết lách thứ gì nghiêm túc, chợt thấy cuộc sống cứ bừa bộn, cuống cuồng&amp;hellip; Nhiều điều muốn làm, nhiều điều dang dở&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Hay là mình lại viết, viết một cái gì đó, ít ra là viết, thậm chí chỉ là viết ra những con chữ?!&lt;/p&gt;
 

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AVinCapital</title>
-    <link>http://www.avincapital.com/tags/macro/index.xml</link>
-    <description>Recent content on AVinCapital</description>
+    <title>Macro on AVinCapital</title>
+    <link>http://www.avincapital.com/tags/macro/</link>
+    <description>Recent content in Macro on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <atom:link href="http://www.avincapital.com/tags/macro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2016 15:09:49 +0700</lastBuildDate>
+    
+	<atom:link href="http://www.avincapital.com/tags/macro/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What Drives the Stock Market</title>
@@ -29,21 +31,7 @@
 
 &lt;p&gt;– &lt;strong&gt;Government debt.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;– &lt;strong&gt;FII cash flow&lt;/strong&gt; in/out of VN stock market through ETFs, P-notes &amp;amp; open-ended investment funds.&lt;/p&gt;
-
-&lt;p&gt;– &lt;strong&gt;TPP, AEC &amp;amp; FTAs:&lt;/strong&gt; which sectors will get benefit from these trade agreements?&lt;/p&gt;
-
-&lt;p&gt;– &lt;strong&gt;China’s yuan devaluation&lt;/strong&gt; &amp;amp; Vietnam’s exchange rate reaction.&lt;/p&gt;
-
-&lt;p&gt;– &lt;strong&gt;Global oil &amp;amp; gas prices.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;– &lt;strong&gt;Upgrade VN stock market&lt;/strong&gt; from MSCI’s frontier to emerging market.&lt;/p&gt;
-
-&lt;p&gt;– &lt;strong&gt;Banking bad debt &amp;amp; VAMC story.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;– &lt;strong&gt;Derivatives market&lt;/strong&gt; starts with index future contract &amp;amp; covered warrant.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

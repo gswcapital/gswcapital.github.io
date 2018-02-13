@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vn30-rsses on AVinCapital</title>
-    <link>http://www.avincapital.com/vn30/index.xml</link>
-    <description>Recent content in Vn30-rsses on AVinCapital</description>
+    <title>Vn30s on AVinCapital</title>
+    <link>http://www.avincapital.com/vn30/</link>
+    <description>Recent content in Vn30s on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
     <lastBuildDate>Sat, 17 Dec 2016 17:09:49 +0700</lastBuildDate>
-    <atom:link href="http://www.avincapital.com/vn30/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.avincapital.com/vn30/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>VN30 constituents: First Half-Year 2017 </title>
@@ -16,8 +17,7 @@
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
       
       <guid>http://www.avincapital.com/vn30/vn30-index-constituents-first-half-year-2017/</guid>
-      <description>&lt;p&gt;For the details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>For the details of the Index, please click HERE. The exchange rate using is 1USD = 23,000VND</description>
     </item>
     
   </channel>

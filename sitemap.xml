@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://www.avincapital.com/</loc>
-    <lastmod>2017-03-17T21:09:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.avincapital.com/post/20170317-vietnam-stock-market-daily-highlights/</loc>
-    <lastmod>2017-03-17T21:09:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.avincapital.com/avin/20170303-avin-portfolio-review/</loc>
-    <lastmod>2017-03-04T18:49:56+07:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://www.avincapital.com/avin/20160710-vietnam-stock-market-weekly-forecast/</loc>
-    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.avincapital.com/avin/20161014-vietnam-stock-market-weekly-forecast/</loc>
-    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.avincapital.com/post/20170303-vietnam-stock-market-daily-highlights/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
   </url>
   
@@ -87,8 +63,177 @@
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/about/</loc>
-    <lastmod>2016-12-01T00:00:01+07:00</lastmod>
+    <loc>http://www.avincapital.com/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/avin/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/avin/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/blog/</loc>
+    <lastmod>2016-12-01T00:00:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/blog/</loc>
+    <lastmod>2016-12-02T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/</loc>
+    <lastmod>2016-12-01T00:00:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/commentary/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/commentary/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/daily/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/forecast/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/guidance/</loc>
+    <lastmod>2016-12-19T10:48:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/guide/</loc>
+    <lastmod>2016-12-19T10:48:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/hello/</loc>
+    <lastmod>2016-12-01T00:00:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/indices/</loc>
+    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/indices/</loc>
+    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/investment/</loc>
+    <lastmod>2016-12-03T15:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/investment/</loc>
+    <lastmod>2016-12-19T10:48:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/law/</loc>
+    <lastmod>2016-12-04T15:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/macro/</loc>
+    <lastmod>2016-12-03T15:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/misc/</loc>
+    <lastmod>2016-12-01T00:00:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/monthly/</loc>
+    <lastmod>2017-02-09T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/portfolio/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/post/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/technical-analysis/</loc>
+    <lastmod>2017-02-09T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/vn30/</loc>
+    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/vn30/</loc>
+    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/vnindex/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/weekly/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

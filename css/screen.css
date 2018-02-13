@@ -963,16 +963,6 @@ body:not(.post-template) .post-title {
     text-decoration: none;
 }
 
-.post-desc {
-    text-transform: uppercase;
-    display: block;
-    margin: 0 0 2rem 0;
-    font-family: "Open Sans", sans-serif;
-    font-size: 1.5rem;
-    line-height: 2.2rem;
-    color: #9EABB3;
-}
-
 .post-excerpt p {
     margin: 0;
     font-size: 0.9em;

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AVinCapital</title>
-    <link>http://www.avincapital.com/tags/vn30/index.xml</link>
-    <description>Recent content on AVinCapital</description>
+    <title>Vn30 on AVinCapital</title>
+    <link>http://www.avincapital.com/tags/vn30/</link>
+    <description>Recent content in Vn30 on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <atom:link href="http://www.avincapital.com/tags/vn30/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2016 17:09:49 +0700</lastBuildDate>
+    
+	<atom:link href="http://www.avincapital.com/tags/vn30/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The VN30-Index constituents</title>
@@ -34,25 +36,7 @@
 &lt;li&gt;Capped: 10%&lt;/li&gt;
 &lt;li&gt;Review: Halfly (Jan, July). Effected day: the fourth Monday of the month.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;
-2. Review Procedure&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Market capitalisation&lt;/strong&gt;: All stocks are sorted in terms of 6-month-daily-average market capitalisation in descending order. The top-50 stocks qualify for the selection.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Free-float&lt;/strong&gt;: Those whose free-float is lower than 5% are eliminated from the selection.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Liquidity&lt;/strong&gt;: The remaining stocks are sorted in term of 6-month average daily traded value in descending.
-
-&lt;ul&gt;
-&lt;li&gt;The stocks in Top 20 are selected into index universe&lt;/li&gt;
-&lt;li&gt;The stocks ranked outside the top 40 are eliminated from the index universe&lt;/li&gt;
-&lt;li&gt;The stocks 21th - 40th: The Top 30 are selected into the index universe with high prefer to the existing components.&lt;/li&gt;
-&lt;li&gt;The rest of 10 would be considered as the reserved stocks.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For the sample details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;/ol&gt;</description>
     </item>
     
     <item>
@@ -61,8 +45,7 @@
       <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
       
       <guid>http://www.avincapital.com/vn30/vn30-index-constituents-first-half-year-2017/</guid>
-      <description>&lt;p&gt;For the details of the Index, please click &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1Y2mZrlMjDGyIl79ybPVyza-U9h5RonlgTigoOE4eEM4/edit?usp=sharing&#34;&gt;HERE&lt;/a&gt;. The exchange rate using is &lt;strong&gt;1USD = 23,000VND&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>For the details of the Index, please click HERE. The exchange rate using is 1USD = 23,000VND</description>
     </item>
     
   </channel>
