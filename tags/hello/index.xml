@@ -6,17 +6,30 @@
     <description>Recent content in Hello on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:49 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2018 07:30:49 +0700</lastBuildDate>
     
 	<atom:link href="http://www.avincapital.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Hello 2018</title>
+      <link>http://www.avincapital.com/blog/20180216-hello-2018/</link>
+      <pubDate>Thu, 15 Feb 2018 07:30:49 +0700</pubDate>
+      
+      <guid>http://www.avincapital.com/blog/20180216-hello-2018/</guid>
+      <description>&lt;p&gt;Happy Lunar New Year 2018. The year of Snoopy!!!&lt;/p&gt;
+
+&lt;p&gt;Lại là từ rất rất lâu rồi, nay mới lại viết. Viết để khai code đầu xuân hứa hẹn một năm mới an khang thịnh vượng.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
-      <link>http://www.avincapital.com/post/20161202-saying-hello-world/</link>
+      <link>http://www.avincapital.com/blog/20161202-saying-hello-world/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/post/20161202-saying-hello-world/</guid>
+      <guid>http://www.avincapital.com/blog/20161202-saying-hello-world/</guid>
       <description>&lt;p&gt;[Updated] 13/12/2018: Lại là một vòng loop mới [Updated]&lt;/p&gt;
 
 &lt;p&gt;Đã khá lâu rồi không viết lách thứ gì nghiêm túc, chợt thấy cuộc sống cứ bừa bộn, cuống cuồng&amp;hellip; Nhiều điều muốn làm, nhiều điều dang dở&amp;hellip;&lt;/p&gt;
