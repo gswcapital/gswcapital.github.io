@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.avincapital.com/vn30/vn30-index-constituents-second-half-year-2017/</loc>
+    <lastmod>2017-06-17T17:09:49+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.avincapital.com/avin/20160710-vietnam-stock-market-weekly-forecast/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
   </url>
@@ -74,6 +79,12 @@
   </url>
   
   <url>
+    <loc>http://www.avincapital.com/categories/avin/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.avincapital.com/tags/avin/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
@@ -86,13 +97,13 @@
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/tags/blog/</loc>
+    <loc>http://www.avincapital.com/categories/blog/</loc>
     <lastmod>2018-02-15T07:30:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/categories/blog/</loc>
+    <loc>http://www.avincapital.com/tags/blog/</loc>
     <lastmod>2018-02-15T07:30:49+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -105,18 +116,18 @@
   
   <url>
     <loc>http://www.avincapital.com/categories/</loc>
-    <lastmod>2018-02-15T07:30:49+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.avincapital.com/tags/commentary/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.avincapital.com/categories/commentary/</loc>
+    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/commentary/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -153,25 +164,19 @@
   
   <url>
     <loc>http://www.avincapital.com/tags/indices/</loc>
-    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.avincapital.com/categories/indices/</loc>
-    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.avincapital.com/tags/investment/</loc>
-    <lastmod>2016-12-19T10:48:29+07:00</lastmod>
+    <lastmod>2017-06-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.avincapital.com/categories/investment/</loc>
     <lastmod>2016-12-03T15:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/investment/</loc>
+    <lastmod>2016-12-19T10:48:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -200,12 +205,6 @@
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/categories/portfolio/</loc>
-    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.avincapital.com/post/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
@@ -224,26 +223,26 @@
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/tags/vn30/</loc>
-    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
+    <loc>http://www.avincapital.com/categories/vn30/</loc>
+    <lastmod>2017-06-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/categories/vn30/</loc>
-    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
+    <loc>http://www.avincapital.com/tags/vn30/</loc>
+    <lastmod>2017-06-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.avincapital.com/vn30/</loc>
-    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
+    <lastmod>2017-06-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.avincapital.com/tags/vnindex/</loc>
-    <lastmod>2017-02-17T17:09:49+07:00</lastmod>
+    <lastmod>2017-06-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   

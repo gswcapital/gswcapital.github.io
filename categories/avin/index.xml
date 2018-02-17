@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AVinCapital</title>
-    <link>http://www.avincapital.com/categories/avin/index.xml</link>
-    <description>Recent content on AVinCapital</description>
+    <title>Avin on AVinCapital</title>
+    <link>http://www.avincapital.com/categories/avin/</link>
+    <description>Recent content in Avin on AVinCapital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <atom:link href="http://www.avincapital.com/categories/avin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2017 17:09:49 +0700</lastBuildDate>
+    
+	<atom:link href="http://www.avincapital.com/categories/avin/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>The AVIN™ Review 27/02 - 03/03/2017</title>
-      <link>http://www.avincapital.com/avin/20170303-avin-portfolio-review/</link>
-      <pubDate>Sat, 04 Mar 2017 18:49:56 +0700</pubDate>
+      <title>The AVIN™ Review 03/10 - 07/10/2016</title>
+      <link>http://www.avincapital.com/avin/20160710-vietnam-stock-market-weekly-forecast/</link>
+      <pubDate>Fri, 17 Feb 2017 17:09:49 +0700</pubDate>
       
-      <guid>http://www.avincapital.com/avin/20170303-avin-portfolio-review/</guid>
+      <guid>http://www.avincapital.com/avin/20160710-vietnam-stock-market-weekly-forecast/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The AVIN&amp;trade; Investable Universe&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Size: &lt;strong&gt;233&lt;/strong&gt; (over 319)&lt;/li&gt;
-&lt;li&gt;Value: &lt;strong&gt;1,441,421,421,303,550&lt;/strong&gt; ( &lt;em&gt;đ&lt;/em&gt; 1.441T)&lt;/li&gt;
+&lt;li&gt;Size: &lt;strong&gt;238&lt;/strong&gt; (over 316)&lt;/li&gt;
+&lt;li&gt;Value: &lt;strong&gt;1,289,615,408,219,905&lt;/strong&gt; ( &lt;em&gt;đ&lt;/em&gt; 1.289T)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Market Structure (Size):&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;08 Large-caps:&lt;/strong&gt; VNM, SAB, VCB, VIC, GAS, CTG, ROS, BID&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;12 Mid-caps:&lt;/strong&gt; HPG, MSN, MBB, FPT, MWG, ROS, STB, CTD, EIB, NT2, DPM, SSI, DHG, KDC&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;07 Large-caps:&lt;/strong&gt; VNM, VCB, GAS, VIC, CTG, BID, BVH&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;14 Mid-caps:&lt;/strong&gt; HPG, MSN, MBB, FPT, MWG, ROS, STB, CTD, EIB, NT2, DPM, SSI, DHG, KDC&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;45 Small-caps:&lt;/strong&gt; PVD, BMP, KBC, HT1, HSG, PNJ, CII, REE, VHC, GMD&amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;78 Micro-caps:&lt;/strong&gt; BCI, SHP, HDG, HHS, IMP, STG, LIX, KSB, BHS, PAC&amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;90 Nano-caps:&lt;/strong&gt; SRC, HTI, HDC, HAI, SCD, SHI, LBM, TIP, VHG, HAR&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;93 Micro-caps:&lt;/strong&gt; BCI, SHP, HDG, HHS, IMP, STG, LIX, KSB, BHS, PAC&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;79 Nano-caps:&lt;/strong&gt; SRC, HTI, HDC, HAI, SCD, SHI, LBM, TIP, VHG, HAR&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Market Structure (Capital in VND):&lt;/strong&gt;&lt;/p&gt;
