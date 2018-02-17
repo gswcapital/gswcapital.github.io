@@ -86,13 +86,13 @@
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/tags/blog/</loc>
+    <loc>http://www.avincapital.com/categories/blog/</loc>
     <lastmod>2018-02-15T07:30:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/categories/blog/</loc>
+    <loc>http://www.avincapital.com/tags/blog/</loc>
     <lastmod>2018-02-15T07:30:49+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -110,13 +110,13 @@
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/tags/commentary/</loc>
+    <loc>http://www.avincapital.com/categories/commentary/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/categories/commentary/</loc>
+    <loc>http://www.avincapital.com/tags/commentary/</loc>
     <lastmod>2017-02-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -152,26 +152,26 @@
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/tags/indices/</loc>
-    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.avincapital.com/categories/indices/</loc>
     <lastmod>2016-12-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.avincapital.com/tags/investment/</loc>
-    <lastmod>2016-12-19T10:48:29+07:00</lastmod>
+    <loc>http://www.avincapital.com/tags/indices/</loc>
+    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.avincapital.com/categories/investment/</loc>
     <lastmod>2016-12-03T15:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/tags/investment/</loc>
+    <lastmod>2016-12-19T10:48:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -220,6 +220,12 @@
   <url>
     <loc>http://www.avincapital.com/tags/technical-analysis/</loc>
     <lastmod>2017-02-09T17:09:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.avincapital.com/categories/vn30/</loc>
+    <lastmod>2016-12-17T17:09:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   

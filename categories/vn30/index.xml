@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vn30 on AVinCapital</title>
+    <link>http://www.avincapital.com/categories/vn30/</link>
+    <description>Recent content in Vn30 on AVinCapital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2016 17:09:49 +0700</lastBuildDate>
+    
+	<atom:link href="http://www.avincapital.com/categories/vn30/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The VN30-Index constituents</title>
+      <link>http://www.avincapital.com/post/the-vn30-index-constituents/</link>
+      <pubDate>Sat, 17 Dec 2016 17:09:49 +0700</pubDate>
+      
+      <guid>http://www.avincapital.com/post/the-vn30-index-constituents/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;General
+
+&lt;ul&gt;
+&lt;li&gt;Name of Index: VN30&lt;/li&gt;
+&lt;li&gt;Type of Index: Price&lt;/li&gt;
+&lt;li&gt;Calculation Method: Based on free-float market capitalisation.&lt;/li&gt;
+&lt;li&gt;Number of Constituents: 30&lt;/li&gt;
+&lt;li&gt;Feaatures: Contains companies listed on the Ho Chi Minh Exchange with highest market capital and highest liquidity. They normally cover 80% of total market capitalisation and 60% of total market&amp;rsquo;s transaction value.&lt;/li&gt;
+&lt;li&gt;Criteria: market capitalisation, free-float, transaction value.&lt;/li&gt;
+&lt;li&gt;Other Criteria:
+
+&lt;ul&gt;
+&lt;li&gt;Not been assigned to be Designated Security, Controlled Security and Under Special Monitoring Segments in 3 months prior to the review.&lt;/li&gt;
+&lt;li&gt;Be continuosly listed in at least 6 months. If it&amp;rsquo;s market capitalisation is in top 5, the duration would be 3 months.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Capped: 10%&lt;/li&gt;
+&lt;li&gt;Review: Halfly (Jan, July). Effected day: the fourth Monday of the month.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
